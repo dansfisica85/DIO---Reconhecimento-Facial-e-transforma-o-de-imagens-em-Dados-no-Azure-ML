@@ -32,8 +32,8 @@
 
 ![AC_2](https://github.com/dansfisica85/DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/assets/118570287/e3d32248-fd30-4d4c-b5a3-8db3d17aa4d0)
 
-
-"[
+'''
+[
   {
     "recognitionModel": "recognition_01",
     "faceRectangle": {
@@ -159,4 +159,5 @@
       }
     }
   }
-]"
+]
+'''
