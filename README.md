@@ -42,3 +42,13 @@
 ![WW_2](https://github.com/dansfisica85/DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/assets/118570287/32a26366-f603-4cc6-848f-a18cd20fff23)
 
 
+# Extract text from images.
+
+* Use a API de leitura para extrair texto impresso e manuscrito em idiomas com suporte de imagens, PDFs e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não requer a especificação do idioma.
+
+![Text1](https://github.com/dansfisica85/DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/assets/118570287/f3bc056a-6556-47a0-9801-65d88c685a54)
+
+
+![text2](https://github.com/dansfisica85/DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/assets/118570287/af2f68cf-e6c7-49b3-b345-6ef894dd9dc4)
+
+
