@@ -1,6 +1,6 @@
 # DIO --- Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML
 ## Reconhecimento Facial e transformação de imagens em Dados no Azure ML - Desafio de código.
-##### Davi Antonino Nunes da Silva
+*** Autor: Davi Antonino Nunes da Silva
 
 ##  Requerimentos do projeto
 ##  Como Entregar esse projeto?
@@ -13,7 +13,7 @@
 * Crie um arquivo chamado readme.md , deixe alguns prints descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
 * Compartilhe conosco o link desse repositório através do botão 'entregar projeto'
 
-## * Links úteis
+## Links úteis
 1. https://aka.ms/ai900-face
 2. https://aka.ms/ai900-ocr
 3. https://aka.ms/ai900-image-analysis
