@@ -26,7 +26,7 @@
 ##### - O processo:
 ###### - Após criar um recurso Azure AI service, acesse o Vision Studio para ter acesso às três tecnologias que vamos utilizar nos exemplos abaixo:
 
-+ Detect Faces in an image
++ Detect Faces in an image:
 Detecte a localização de um ou mais rostos humanos em imagens, juntamente com atributos como pose, máscara facial e pontos de referência faciais.
 Add captions to images
 Gere uma frase legível que descreva o conteúdo de uma imagem.
