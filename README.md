@@ -1,9 +1,13 @@
 # DIO --- Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML
 ## Reconhecimento Facial e transformação de imagens em Dados no Azure ML - Desafio de código.
-*** Autor: Davi Antonino Nunes da Silva
+
+* Autor: Davi Antonino Nunes da Silva
+
+# Objetivo
+* Repositório criado para entregar o projeto final da etapa: Reconhecimento Facial e Transformação de Imagens em Dados no Azure ML.
 
 ##  Requerimentos do projeto
-##  Como Entregar esse projeto?
+###  Como Entregar esse projeto?
 
 * Chegou a hora de você construir um portfólio ainda mais rico e impressionar futuros recrutadores, para isso é sempre importante mostrar os resultados do seu esforço e como você os obteve deixando claro o seu racional, para isso faça da seguinte maneira:
 
@@ -18,8 +22,9 @@
 2. https://aka.ms/ai900-ocr
 3. https://aka.ms/ai900-image-analysis
 
-######  Crie um arquivo chamado readme.md, deixe alguns prints, descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
-###### -Insights e possibilidades. As tecnologias apresentadas aqui já estão em uso no mundo todo, de diversas formas. A influência da IA ​​é omnipresente. Nesse processo eu busco identificar as inúmeras maneiras de aproveitar os serviços disponíveis no Azure para inteligência artificial.
+
+1. Crie um arquivo chamado readme.md, deixe alguns prints, descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
+  _Insights e possibilidades. As tecnologias apresentadas aqui já estão em uso no mundo todo, de diversas formas. A influência da IA ​​é omnipresente. Nesse processo eu busco     _identificar as inúmeras maneiras de aproveitar os serviços disponíveis no Azure para inteligência artificial.
 
 ###### - Os primeiros insights que tive foi utilizar a IA para cuidar do lar. Imagine você receber notificações sobre o comportamento do seu pet ou das pessoas na sua casa. Combinando isso às tecnologias de IoT, você poderá ter um grande controle mesmo fora de casa. Você pode evitar acidentes observando o comportamento das coisas, oferecer serviços remotos de cuidados para o Pet, idosos e pessoas com comorbidades. Tudo isso baseado na captura de informações em tempo real com respostas rápidas.
 
