@@ -26,18 +26,5 @@
 3. https://aka.ms/ai900-image-analysis
 
 
-
-1. Crie um arquivo chamado readme.md, deixe alguns prints, descreva o processo, alguns insights e possibilidades que você aprendeu durante o conteúdo.
-  _Insights e possibilidades. As tecnologias apresentadas aqui já estão em uso no mundo todo, de diversas formas. A influência da IA ​​é omnipresente. Nesse processo eu busco identificar as inúmeras maneiras de aproveitar os serviços disponíveis no Azure para inteligência artificial.
-
-
-## Detect Faces in an image:
-* Detecte a localização de um ou mais rostos humanos em imagens, juntamente com atributos como pose, máscara facial e pontos de referência faciais.
-* Add captions to images
-* Gere uma frase legível que descreva o conteúdo de uma imagem.
-
-
-## Extract text from images
-* Use a API Read para extrair texto impresso e manuscrito em idiomas suportados de imagens, PDFs e arquivos TIFF. O recurso de reconhecimento óptico de caracteres (OCR) oferece suporte a imagens e documentos com idiomas mistos e não exige a especificação do idioma.
-
-
+# Detect Faces in an image:
+![AC_1](https://github.com/dansfisica85/DIO---Reconhecimento-Facial-e-transforma-o-de-imagens-em-Dados-no-Azure-ML/assets/118570287/4db95b06-35e1-4a89-87c5-4afceaf22579)
